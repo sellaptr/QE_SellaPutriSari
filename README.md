@@ -3,4 +3,5 @@ tugas
 
 # nama = sella putri sari
 # kelas = A QE
-# kampus = polije
+# kampus = politeknik negeri jember
+
